@@ -1,0 +1,18 @@
+<div class="font-size"><p>Mínimos:<br>
+Requer um processador e sistema operacional de 64 bits<br>
+SO: 64-bit Windows 7, Windows 8.1, Windows 10<br>
+Processador: Intel Core i5-4430 / AMD FX-6300<br>
+Memória: 8 GB de RAM<br>
+Placa de vídeo: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br>
+DirectX: Versão 11<br>
+Armazenamento: 50 GB de espaço disponível</p>
+<p>
+								Recomendados:<br>
+Requer um processador e sistema operacional de 64 bits<br>
+SO: 64-bit Windows 10<br>
+Processador: AMD Ryzen 5-1600 / Intel Core i5-7600K<br>
+Memória: 8 GB de RAM<br>
+Placa de vídeo: Nvidia GTX 1060 6GB or better<br>
+DirectX: Versão 11<br>
+Armazenamento: 50 GB de espaço disponível</p>
+</div>

@@ -1,0 +1,377 @@
+<div class="content-wrap">
+
+
+
+
+
+                           <section id="section-flip-1" class="content-current">
+                              <div class="container-wrap mobile-download-opcoes  socket-color no-col-gap  text-center" style="padding-top:2px;padding-bottom:5px;position:  relative;z-index: 998;top: 325px;">
+                                 <div class="section-container container">
+                                    <div class="vc_row vc_row-fluid row">
+
+
+
+
+
+
+<div id="tooltip" style="display: none; top: 246px; left: 410px;">Clique nesse botão para ver informações sobre o jogo</div>
+
+
+<div class="container-wrap mobile-download-opcoes socket-color no-col-gap">
+    <div class="single-buttons">
+        <ul>
+
+
+            <li class="vc_column-inner btorrent">
+                <a class="hover bar1 wpb_wrapper mobile game-btn btn-torrent" href="https://flamengo81.com/magnet/?url=bWFnbmV0Oj94dD11cm46YnRpaDpQTUdJQkhTUFRVR1hLSFdNNFpUUklJV1dGVFlYNlA0VCZkbj1SZWFkeS5Pci5Ob3QudjE5MDIwLkVhcmx5LkFjY2VzcyZ0cj11ZHAlM0ElMkYlMkZ0cmFja2VyLm9wZW50cmFja3Iub3JnJTNBMTMzNyUyRmFubm91bmNl" target="_blank" rel="nofollow">
+                  <i class="fa fa-magnet fa-1x"></i>
+                  <span>BAIXAR TORRENT</span><h5>51.8 GB</h5>
+               </a>
+            </li>
+
+
+            <li class="vc_column-inner bdireto">
+                <a class="hover bar2 wpb_wrapper mobile game-btn btn-direto" target="_blank" rel="nofollow">
+                  <i class="fa fa-cloud-download fa-1x"></i>
+                  <span>Links Direto</span><h5>Baixar</h5>
+               </a>
+            </li>
+
+
+            <li class="vc_column-inner binfo">
+                <a class="hover bar3 wpb_wrapper mobile game-btn btn-info" href="#" target="_blank" rel="nofollow">
+                  <i class="fa fa-list-alt fa-1x"></i>
+                  <span>INFORMAÇÕES</span>
+               </a>
+            </li>
+
+
+
+
+
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    
+
+                                    </div>
+                                 </div>
+                              </div>
+                              <img style="position:  relative;z-index: 99;    top: -40px;" title="Ready or Not" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg?t=1639785519" width="100%" alt="Ready or Not Capa">
+                              <div class="font-size" style="margin-top: 30px;">
+
+                                 <div class="at-above-post addthis_tool" data-url="https://jogostorrents.site/download-ready-or-not-torrent/"></div><h2> COMO JOGAR:<p></p>
+<p>1 – CRIE UMA CONTA FAKE NA STEAM<br>
+2 – ABRA A STEAM COM A CONTA FAKE<br>
+3 – ABRA O JOGO PELO ARQUIVO: “Ready Or Not\ReadyOrNot.exe”<br>
+4 – DIVIRTA-SE</p>
+</h2>
+<p>Ready or Not é um jogo de tiro em primeira pessoa, intenso, tático e atual. Nele, as unidades policiais da SWAT são chamadas para controlar situações de hostilidade e de confronto.<br>
+<iframe id="download" src="https://store.steampowered.com/widget/1144200/" width="646" height="190" frameborder="0"></iframe></p>
+<hr>
+<p style="text-align: center">Área de Download</p>
+<div class="container-download">
+<div onclick="expandir(this);" class="header"><span>UPTOBOX</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly91cHRvYm94LmNvbS9iczliN2dxcG9haWg=" target="_blank" rel="nofollow noopener noreferrer">UPTOBOX</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>1FICHIER</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly8xZmljaGllci5jb20vP2RhYTFieXE4YmZzM2E0b2hrdW16" target="_blank" rel="nofollow noopener noreferrer">1FICHIER</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>FASTCLICK</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly9mYXN0Y2xpY2sudG8vZTFuMWswanRqanJiL1JlYWR5Lk9yLk5vdC52MTkwMjAuRWFybHkuQWNjZXNzLnppcC5odG1s" target="_blank" rel="nofollow noopener noreferrer">FASTCLICK</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>TURBOBIT</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly90dXJiLmNjL3JtOHhmZ2x5a3R0OC5odG1s" target="_blank" rel="nofollow noopener noreferrer">TURBOBIT</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>HITFILE</span></div>
+<div class="content">
+<ul>
+<li><a href="https://hitf.cc/84PoKYA" target="_blank" rel="nofollow noopener noreferrer">HITFILE</a></li>
+</ul>
+</div>
+</div>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="https://jogostorrents.site/download-ready-or-not-torrent/"></div><!-- AddThis Share Buttons generic via filter on the_content -->                                    
+                                 </div>
+
+                           </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           <section id="section-flip-2" class=""> <div class="font-size"><p>Mínimos:<br>
+Requer um processador e sistema operacional de 64 bits<br>
+SO: 64-bit Windows 7, Windows 8.1, Windows 10<br>
+Processador: Intel Core i5-4430 / AMD FX-6300<br>
+Memória: 8 GB de RAM<br>
+Placa de vídeo: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br>
+DirectX: Versão 11<br>
+Armazenamento: 50 GB de espaço disponível</p>
+<p>
+								Recomendados:<br>
+Requer um processador e sistema operacional de 64 bits<br>
+SO: 64-bit Windows 10<br>
+Processador: AMD Ryzen 5-1600 / Intel Core i5-7600K<br>
+Memória: 8 GB de RAM<br>
+Placa de vídeo: Nvidia GTX 1060 6GB or better<br>
+DirectX: Versão 11<br>
+Armazenamento: 50 GB de espaço disponível</p>
+</div></section>
+                           <section id="section-flip-3" class=""><div class="font-size">							   									   <iframe width="640" height="390" src="https://www.youtube.com/embed/LI0gxpt5u50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+							   							   </div></section>
+                           <section id="section-flip-4" class=""><div class="font-size"><p><span style="color: #ff0000;"><strong>IMPORTANTE</strong>:</span> ANTES DE INSTALAR O JOGO É NECESSÁRIO INSTALAR OS <a href="https://jogostorrents.site/programas-essenciais-para-os-jogos-rodarem/" target="_blank" rel="noopener">PROGRAMAS ESSENCIAIS PARA SEUS JOGOS RODAREM</a>.</p>
+<p>[1] - Baixe o Jogo por Torrent (<a href="https://jogostorrents.site/como-baixar-arquivos-torrents-e-baixar-no-site/" target="_blank" rel="noopener">Como Baixar Torrents</a>) ou MultiLinks.</p>
+<p>[3] -  Vá até o seu arquivo .ISO (<a href="https://jogostorrents.site/como-usar-arquivo-iso/" target="_blank" rel="noopener">Como usar arquivos .ISO</a>) e Emule-o.</p>
+<p>[4] - Após emular o arquivo .ISO irá aparecer um novo DVD para você em "Meu Computador".</p>
+<p>[5] - Abra-o e execute o arquivo Setup.exe e instale seu jogo.</p>
+<p>[6] - Após terminar de instalar o jogo, vá até o DVD emulado ou em seu arquivo .ISO,  procure por uma pasta com o nome da Release que lançou o jogo (Codex, Skidrow, CPY, Plaza).</p>
+<p>[7] - Abra a pasta e copie todos os arquivo dessa pasta, e cole na pasta em que o seu jogo foi instalado.</p>
+<p>[8] - Desative o Antivírus e o Windows Defender pois eles podem bloquear o jogo !</p>
+<p>[9] - Após instalado, clique com o botão direito no ícone do jogo e "EXECUTAR COMO ADMINISTRADOR" (importante sempre abrir o jogo dessa forma).</p>
+<p>[10] - Aproveite o jogo! Obrigado por visitar nosso site, lembre-se de que se gostar do jogo compre-o! e compartilhe nossa postagem no facebook para mais pessoas baixarem o jogo.</p>
+<p>Ainda não sabe como instalar? Vá em ".NFO" na aba "DESCRIÇÃO" e aprenda como instalar escrito pelo próprios criadores do conteúdo :)</p>
+</div></section>
+                           <section id="section-flip-5" class=""><div class="font-size">
+                              
+<div class="g1-content-narrow g1-typography-xl entry-content" itemprop="articleBody">
+   <div class="w3-content w3-display-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  $(document).ready(function () {
+        var div = $("li.vc_column-inner>a")[1];
+        var href = $(div).attr("href");
+        if (!href) {
+            $($("div.bdireto>a")[1]).removeAttr("href");
+            $(div).click(function (e) {
+                window.location.href = "#download";
+                $($("div.container-download>div")[0]).click();
+            });
+        }
+    });
+	</script>
+	   <script>
+		   	function expandir(elemento){
+		$content = $(elemento).next();
+    $content.slideToggle();
+}
+	   </script>
+
+<div class="w3-display-container mySlides" style="display: none;"><img width="600" height="316" src="https://jogostorrents.site/wp-content/uploads/2022/04/Ready-or-Not-screenshot-1.jpeg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://jogostorrents.site/wp-content/uploads/2022/04/Ready-or-Not-screenshot-1.jpeg 600w, https://jogostorrents.site/wp-content/uploads/2022/04/Ready-or-Not-screenshot-1-300x158.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px"></div>
+	   <div class="w3-display-container mySlides" style="display: block;"><img width="600" height="337" src="https://jogostorrents.site/wp-content/uploads/2022/04/Ready-or-Not-screenshot-2.jpeg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://jogostorrents.site/wp-content/uploads/2022/04/Ready-or-Not-screenshot-2.jpeg 600w, https://jogostorrents.site/wp-content/uploads/2022/04/Ready-or-Not-screenshot-2-300x169.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px"></div>
+	   
+
+
+      <p><button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">❮❮</button><br>
+         <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">❯❯</button>
+      </p>
+   </div>
+</div>
+
+
+
+                           </div></section>
+
+
+
+
+
+
+      <h2>Relacionados</h2>
+
+ 
+<li class="g1-featured-item">
+   <article class="entry-tpl-gridxs">
+      <figure class="entry-featured-media "><a class="g1-frame" href="https://jogostorrents.site/download-lego-star-wars-a-saga-skywalker-pt-br-torrent/"><span class="g1-frame-inner" style="padding-bottom: 50.00000000%;">
+
+
+<div class="zoom">
+        <img width="192" height="96" src="https://cdn.cloudflare.steamstatic.com/steam/apps/920210/header.jpg?t=1649178041" class="attachment-bimber-grid-xs size-bimber-grid-xs wp-post-image">
+</div>
+
+
+
+        <span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+      <header class="entry-header">
+         <h3 class="g1-zeta g1-zeta-1st entry-title"><a style="font-size: 11px !important;" href="https://jogostorrents.site/download-lego-star-wars-a-saga-skywalker-pt-br-torrent/" rel="bookmark">LEGO Star Wars A Saga Skywalker [PT-BR]</a></h3>
+      </header>
+   </article>
+</li>
+ 
+<li class="g1-featured-item">
+   <article class="entry-tpl-gridxs">
+      <figure class="entry-featured-media "><a class="g1-frame" href="https://jogostorrents.site/download-indies-lies-torrent/"><span class="g1-frame-inner" style="padding-bottom: 50.00000000%;">
+
+
+<div class="zoom">
+        <img width="192" height="96" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1638390/header.jpg?t=1648815685" class="attachment-bimber-grid-xs size-bimber-grid-xs wp-post-image">
+</div>
+
+
+
+        <span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+      <header class="entry-header">
+         <h3 class="g1-zeta g1-zeta-1st entry-title"><a style="font-size: 11px !important;" href="https://jogostorrents.site/download-indies-lies-torrent/" rel="bookmark">Indies Lies</a></h3>
+      </header>
+   </article>
+</li>
+ 
+<li class="g1-featured-item">
+   <article class="entry-tpl-gridxs">
+      <figure class="entry-featured-media "><a class="g1-frame" href="https://jogostorrents.site/download-school-simulator-rpg-torrent/"><span class="g1-frame-inner" style="padding-bottom: 50.00000000%;">
+
+
+<div class="zoom">
+        <img width="192" height="96" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1936070/header.jpg?t=1648719822" class="attachment-bimber-grid-xs size-bimber-grid-xs wp-post-image">
+</div>
+
+
+
+        <span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+      <header class="entry-header">
+         <h3 class="g1-zeta g1-zeta-1st entry-title"><a style="font-size: 11px !important;" href="https://jogostorrents.site/download-school-simulator-rpg-torrent/" rel="bookmark">School Simulator RPG</a></h3>
+      </header>
+   </article>
+</li>
+ 
+<li class="g1-featured-item">
+   <article class="entry-tpl-gridxs">
+      <figure class="entry-featured-media "><a class="g1-frame" href="https://jogostorrents.site/download-chinese-train-trip-torrent/"><span class="g1-frame-inner" style="padding-bottom: 50.00000000%;">
+
+
+<div class="zoom">
+        <img width="192" height="96" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1918920/header.jpg?t=1648744478" class="attachment-bimber-grid-xs size-bimber-grid-xs wp-post-image">
+</div>
+
+
+
+        <span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+      <header class="entry-header">
+         <h3 class="g1-zeta g1-zeta-1st entry-title"><a style="font-size: 11px !important;" href="https://jogostorrents.site/download-chinese-train-trip-torrent/" rel="bookmark">Chinese Train Trip</a></h3>
+      </header>
+   </article>
+</li>
+ 
+<li class="g1-featured-item">
+   <article class="entry-tpl-gridxs">
+      <figure class="entry-featured-media "><a class="g1-frame" href="https://jogostorrents.site/download-coromon-pt-br-torrent/"><span class="g1-frame-inner" style="padding-bottom: 50.00000000%;">
+
+
+<div class="zoom">
+        <img width="192" height="96" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1218210/header.jpg?t=1648743575" class="attachment-bimber-grid-xs size-bimber-grid-xs wp-post-image">
+</div>
+
+
+
+        <span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+      <header class="entry-header">
+         <h3 class="g1-zeta g1-zeta-1st entry-title"><a style="font-size: 11px !important;" href="https://jogostorrents.site/download-coromon-pt-br-torrent/" rel="bookmark">Coromon [PT-BR]</a></h3>
+      </header>
+   </article>
+</li>
+ 
+<li class="g1-featured-item">
+   <article class="entry-tpl-gridxs">
+      <figure class="entry-featured-media "><a class="g1-frame" href="https://jogostorrents.site/download-forward-escape-the-fold-torrent/"><span class="g1-frame-inner" style="padding-bottom: 50.00000000%;">
+
+
+<div class="zoom">
+        <img width="192" height="96" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1766390/header.jpg?t=1648581700" class="attachment-bimber-grid-xs size-bimber-grid-xs wp-post-image">
+</div>
+
+
+
+        <span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+      <header class="entry-header">
+         <h3 class="g1-zeta g1-zeta-1st entry-title"><a style="font-size: 11px !important;" href="https://jogostorrents.site/download-forward-escape-the-fold-torrent/" rel="bookmark">FORWARD Escape the Fold</a></h3>
+      </header>
+   </article>
+</li>
+
+
+<div id="comment-policy" class="comment-policy padding-double "><div class="content"><p class="title"><a href="#">Jogos Torrents</a> - REGRAS BÁSICAS</p>
+	<p>É NECESSÁRIO TER UM CONHECIMENTO MÍNIMO DE COMPUTAÇÃO PARA INSTALAR OS JOGOS DESSES SITES</p>
+	<p>Como Instalar o jogo? Não será respondido! Tem uma aba no post explicando isso. "instalação"</p>
+	<p>Erros? Dúvidas? Vá no Menu &gt; Tutoriais! antes de comentar qualquer coisa, Veja se tem alguma resposta abaixo relacionada ao seu problema!</p>
+	
+	
+	</div><i aria-hidden="true" class="icon icon-chat-bubble"></i></div>
+<div id="disqus_thread"><iframe id="dsq-app1356" name="dsq-app1356" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="https://disqus.com/embed/comments/?base=default&amp;f=jogos-torrents&amp;t_u=https%3A%2F%2Fjogostorrents.site%2Fdownload-ready-or-not-torrent%2F&amp;t_d=Download%20Ready%20or%20Not%20-%20PC%20Torrent&amp;t_t=Download%20Ready%20or%20Not%20-%20PC%20Torrent&amp;s_o=default#version=31cd6fbd4797db790bc183cea2909ab5" style="width: 1px !important; min-width: 100% !important; border: none !important; overflow: hidden !important; height: 2144px !important;" horizontalscrolling="no" verticalscrolling="no"></iframe><iframe id="indicator-north" name="indicator-north" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" style="width: 662px !important; border: none !important; overflow: hidden !important; top: 0px !important; min-width: 662px !important; max-width: 662px !important; position: fixed !important; z-index: 2147483646 !important; height: 0px !important; min-height: 0px !important; max-height: 0px !important; display: none !important;"></iframe><iframe id="indicator-south" name="indicator-south" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" style="width: 662px !important; border: none !important; overflow: hidden !important; bottom: 0px !important; min-width: 662px !important; max-width: 662px !important; position: fixed !important; z-index: 2147483646 !important; height: 0px !important; min-height: 0px !important; max-height: 0px !important; display: none !important;"></iframe></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://jogos-torrents.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+
+
+
+
+                        </div>

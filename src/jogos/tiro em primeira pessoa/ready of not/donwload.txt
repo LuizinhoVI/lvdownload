@@ -1,0 +1,32 @@
+<div class="container-download">
+<div onclick="expandir(this);" class="header"><span>UPTOBOX</span></div>
+<div class="content" style="display: block;">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly91cHRvYm94LmNvbS9iczliN2dxcG9haWg=" target="_blank" rel="nofollow noopener noreferrer">UPTOBOX</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>1FICHIER</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly8xZmljaGllci5jb20vP2RhYTFieXE4YmZzM2E0b2hrdW16" target="_blank" rel="nofollow noopener noreferrer">1FICHIER</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>FASTCLICK</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly9mYXN0Y2xpY2sudG8vZTFuMWswanRqanJiL1JlYWR5Lk9yLk5vdC52MTkwMjAuRWFybHkuQWNjZXNzLnppcC5odG1s" target="_blank" rel="nofollow noopener noreferrer">FASTCLICK</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>TURBOBIT</span></div>
+<div class="content">
+<ul>
+<li><a href="https://flamengo81.com/magnet/?url=aHR0cHM6Ly90dXJiLmNjL3JtOHhmZ2x5a3R0OC5odG1s" target="_blank" rel="nofollow noopener noreferrer">TURBOBIT</a></li>
+</ul>
+</div>
+<div onclick="expandir(this);" class="header"><span>HITFILE</span></div>
+<div class="content">
+<ul>
+<li><a href="https://hitf.cc/84PoKYA" target="_blank" rel="nofollow noopener noreferrer">HITFILE</a></li>
+</ul>
+</div>
+</div>
